@@ -5,5 +5,5 @@ another edit in remote
 #include<iostream.h>
 void main(){
 int a;
-cout<<a+3;
+cout<<a+2;
 }
