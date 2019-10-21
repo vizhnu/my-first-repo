@@ -4,6 +4,9 @@ edited in remote server
 another edit in remote
 #include<iostream.h>
 void main(){
-int a;
+int a = 5;
 cout<<a+2;
+while(a>0){
+  count<<a--;
+}
 }
