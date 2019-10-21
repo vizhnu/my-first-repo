@@ -4,9 +4,15 @@ edited in remote server
 another edit in remote
 #include<iostream.h>
 void main(){
-int a = 5;
-cout<<a+2;
-while(a>0){
-  count<<a--;
-}
+  int a = 5;
+  cout<<a+2;
+  while(a>0){
+    count<<a--;
+  }
+  if(a==0){
+    count<< "a = "<<0;
+  }
+  else{
+    cout << a;
+  }
 }
